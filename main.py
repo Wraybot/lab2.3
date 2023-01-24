@@ -8,7 +8,7 @@ pile = []
 
 while len(p1) != 0 or len(p2) != 0:
     
-    if p1card = p1.pop(0) #5 3
+    p1.pop(0) #5 3
     p2card = p2.pop(0) #2 2
     pile.append(p1card) 
     pile.append(p2card)
